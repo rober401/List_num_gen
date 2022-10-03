@@ -7,3 +7,4 @@ def printValues():
     print(l)
 
 printValues()
+input = ("press any button to close")
